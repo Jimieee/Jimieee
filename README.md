@@ -20,15 +20,64 @@
 </pre>
 <hr>
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+<code>
+interface Tools {
+    ScriptingLanguages: string[];
+    ProgrammingLanguages: string[];
+    MarkupLanguages: string[];
+    OtherLanguages: string[];
+    Editors: string[];
+    Platform: string[];
+    OtherTools: string[];
+}
+
+class Jimiee extends Jimenez {
+    name: string;
+    age: number;
+    role: string;
+    TOOLS: Tools;
+    INTERESTS: string[];
+
+    constructor() {
+        super();
+        this.name = "Jimiee";
+        this.age = 19;
+        this.role = "Student";
+
+        this.TOOLS = {
+            ScriptingLanguages: ["TypeScript", "JavaScript"],
+            ProgrammingLanguages: ["C", "C++", "C+"],
+            MarkupLanguages: ["Html"],
+            OtherLanguages: ["json"],
+            Editors: ["VsCode"],
+        };
+
+        this.INTERESTS = [
+            "Ciencia de la computación",
+            "Desarrollo de Software",
+            "Ciberseguridad",
+        ];
+    }
+
+    use(tool: string): string {
+        return this.TOOLS[tool].join(', ');
+    }
+
+    // Método para obtener la longitud
+    length(): number {
+        // XD
+        return 171; // cm
+    }
+
+    // Método para convertir a cadena de texto
+    toString(): string {
+        return `${this.name}, un desarrollador jr de ${this.age} años y ${this.role}`;
+    }
+}
+
+</code>
 
 <br><br>
 
