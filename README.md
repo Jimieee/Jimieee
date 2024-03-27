@@ -48,7 +48,7 @@ class Jimiee extends Jimenez {
 
         this.TOOLS = {
             ScriptingLanguages: ["TypeScript", "JavaScript"],
-            ProgrammingLanguages: ["C", "C++", "C+"],
+            ProgrammingLanguages: ["C++", "C#"],
             MarkupLanguages: ["Html"],
             OtherLanguages: ["json"],
             Editors: ["VsCode"],
