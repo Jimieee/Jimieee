@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+## <picture><img src = "https://cdn3.emoji.gg/emojis/3194-steamhappy.png" width = 50px></picture> **Sobre mi**
 
 <hr>
 <pre>
