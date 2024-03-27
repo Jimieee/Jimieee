@@ -12,11 +12,11 @@
 
 <hr>
 <pre>
-💻 Principalmente me gusta desarrollar back-end, pero también por veces hago front-end
-📚 Aun sigo aprendiendo muchas cosas sobre los lenguajes que manejo
-📝 Tengo mucho interes en la ciberseguridad y desarrollo de software
-🌟 Mi lenguaje de programación principal es: Js
-😃 Me gusta desarrollar proyectos de codigo abierto o colaborar en ellos
+💻 Principalmente me gusta desarrollar back-end, pero también a veces hago front-end.
+📚 Aún sigo aprendiendo muchas cosas sobre los lenguajes que manejo.
+📝 Tengo mucho interés en la ciberseguridad y desarrollo de software.
+🌟 Mi lenguaje de programación principal es: JavaScript (Js).
+😃 Me gusta desarrollar proyectos de código abierto o colaborar en ellos.
 </pre>
 <hr>
 
