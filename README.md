@@ -8,10 +8,9 @@
 
 <br>
 
-
-<hr>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<hr>
 <pre>
 💻 Principalmente me gusta desarrollar back-end, pero también por veces hago front-end
 📚 Aun sigo aprendiendo muchas cosas sobre los lenguajes que manejo
