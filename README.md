@@ -65,13 +65,11 @@ class Jimiee extends Jimenez {
         return this.TOOLS[tool].join(', ');
     }
 
-    // Método para obtener la longitud
     length(): number {
         // XD
         return 171; // cm
     }
 
-    // Método para convertir a cadena de texto
     toString(): string {
         return `${this.name}, un desarrollador jr de ${this.age} años y ${this.role}`;
     }
