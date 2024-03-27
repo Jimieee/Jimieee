@@ -22,7 +22,7 @@
 
 <br>
 
-<code>
+```ts
 interface Tools {
     ScriptingLanguages: string[];
     ProgrammingLanguages: string[];
@@ -76,8 +76,7 @@ class Jimiee extends Jimenez {
         return `${this.name}, un desarrollador jr de ${this.age} años y ${this.role}`;
     }
 }
-
-</code>
+```
 
 <br><br>
 
