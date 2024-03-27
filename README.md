@@ -9,9 +9,17 @@
 <br>
 
 
-
-	
+<hr>
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<pre>
+💻 Principalmente me gusta desarrollar back-end, pero también por veces hago front-end
+📚 Aun sigo aprendiendo muchas cosas sobre los lenguajes que manejo
+📝 Tengo mucho interes en la ciberseguridad y desarrollo de software
+🌟 Mi lenguaje de programación principal es: Js
+😃 Me gusta desarrollar proyectos de codigo abierto o colaborar en ellos
+</pre>
+<hr>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
