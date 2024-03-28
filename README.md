@@ -69,9 +69,5 @@ class Jimiee extends Jimenez {
         // XD
         return 171; // cm
     }
-
-    toString(): string {
-        return `${this.name}, un desarrollador jr de ${this.age} años y ${this.role}`;
-    }
 }
 ```
