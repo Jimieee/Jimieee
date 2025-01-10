@@ -1,13 +1,3 @@
-<div style="text-align: center; margin: 20px 0;">
-  <div style="width: 100%; max-width: 800px; height: 300px; overflow: hidden; margin: 0 auto; border-radius: 8px;">
-    <img src="https://github.com/user-attachments/assets/ea58e7e1-68d1-4ba7-8d0c-952b2cdad72f" 
-         alt="Banner Image" 
-         style="width: 100%; height: auto; object-position: center; object-fit: cover;">
-  </div>
-</div>
-
-<br />
-
 ```yaml
 name: Jimieee
 role: Jr Full Stack
