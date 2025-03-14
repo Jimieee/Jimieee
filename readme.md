@@ -62,7 +62,7 @@ passionate_about: ["CyberSecurity", "UI/UX"]
 ## 🌱 Currently Learning
 ![Learning](https://skillicons.dev/icons?i=java&perline=6)
 
-## 🤝 Let's Connect!
+## My Socials :)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/heartsayuko)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/351802711555178528)
 
