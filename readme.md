@@ -62,10 +62,6 @@ passionate_about: ["CyberSecurity", "UI/UX"]
 ## 🌱 Currently Learning
 ![Learning](https://skillicons.dev/icons?i=java&perline=6)
 
-## My Socials :)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/heartsayuko)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/351802711555178528)
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d0c746e-e0e8-4d52-93ae-b42d147c7203" alt="Bye Image" width="300">
 </p>
