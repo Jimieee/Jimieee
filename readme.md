@@ -1,67 +1,48 @@
+<div align="center">
+
 ```yaml
 name: Jimieee
-role: Jr Full Stack
+role: Jr. Full Stack Developer
 current_focus: "Learning Java"
 passionate_about: ["CyberSecurity", "UI/UX"]
-```
+````
 
-# 🛠️ Technology Stack
+</div>
 
-## 🎨 Frontend Development
-<details>
-<summary>View Frontend Technologies</summary>
+---
 
-### Core Languages
-![My Skills](https://skillicons.dev/icons?i=js,ts,cs&perline=3)
+## Stack
 
-### Frameworks & Libraries
-![My Skills](https://skillicons.dev/icons?i=react,vue,next,astro,tailwind,materialui)
+<table>
+  <tr>
+    <td><strong>Interface</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,vue,astro,tailwind,materialui,figma&perline=9" alt="Interface stack: JavaScript, TypeScript, React, Next.js, Vue, Astro, Tailwind CSS, Material UI and Figma" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Server</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,cs,php,prisma,mysql,postgres&perline=8" alt="Server stack: Node.js, Express, NestJS, C#, PHP, Prisma, MySQL and PostgreSQL" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,pnpm,npm,yarn,vscode,visualstudio,idea,docker,cloudflare,vercel,nginx&perline=12" alt="Tools: Git, GitHub, pnpm, npm, Yarn, VS Code, Visual Studio, IntelliJ IDEA, Docker, Cloudflare, Vercel and Nginx" />
+    </td>
+  </tr>
+</table>
 
-### Desing Tools
-![My Skills](https://skillicons.dev/icons?i=figma)
+---
 
-</details>
+## Focus
+### Currently Learning
 
-## ⚙️ Backend Development
-<details>
-<summary>View Backend Technologies</summary>
+<img src="https://skillicons.dev/icons?i=java" alt="Currently learning Java" />
 
-### Programming Languages
-![My Skills](https://skillicons.dev/icons?i=cs,elixir,php&perline=3)
-
-
-### Frameworks & Runtime
-![My Skills](https://skillicons.dev/icons?i=express,nestjs,nodejs&perline=3)
-
-### ORM
-![My Skills](https://skillicons.dev/icons?i=prisma)
-
-### Databases
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres&perline=3)
-</details>
-
-## 🔧 Development Tools
-<details>
-<summary>View Development Tools</summary>
-
-### Version Control
-![My Skills](https://skillicons.dev/icons?i=github,git)
-
-### Build Tools
-![My Skills](https://skillicons.dev/icons?i=npm,yarn)
-
-### IDE & Editors
-![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,idea)
-
-### DevOps & Cloud
-![My Skills](https://skillicons.dev/icons?i=docker,cloudflare,vercel,nginx&perline=4)
-
-</details>
-
-
-## 🌱 Currently Learning
-![Learning](https://skillicons.dev/icons?i=java&perline=6)
+---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d0c746e-e0e8-4d52-93ae-b42d147c7203" alt="Bye Image" width="300">
+  <img src="https://github.com/user-attachments/assets/7d0c746e-e0e8-4d52-93ae-b42d147c7203" alt="Minimal goodbye illustration" width="240">
 </p>
